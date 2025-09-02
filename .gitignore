@@ -6,7 +6,11 @@ libigdmd.pc
 CMakeFiles/*
 CMakeCache.txt
 cmake_install.cmake
-Makefile
+/Makefile
+build/
+
+# Example binaries
+examples/gpu_usage
 
 # Other
 .vs/*
